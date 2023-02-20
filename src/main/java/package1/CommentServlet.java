@@ -15,7 +15,7 @@ import java.sql.SQLException;
 
 public class CommentServlet extends HttpServlet 
 	{
-		
+	//i edited this file in GitHub	
 		private static final long serialVersionUID = 1L;
 		ConnectionClass c= new ConnectionClass();
 		
