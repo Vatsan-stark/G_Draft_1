@@ -19,7 +19,7 @@ public class LoginServlet extends HttpServlet {
 	
 public int id;
 private static final long serialVersionUID = 1L;
-
+// i made this change in GitHub ;
     
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException 
 	{
