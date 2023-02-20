@@ -1,0 +1,40 @@
+@charset "UTF-8";
+.circular {
+  width: 200px;
+  height: 200px;
+  resize: both;
+   
+  border-radius: 50%;
+  overflow: hidden;
+  /*background-color: rgb(128,128,128);*/
+ /* background-color: grey ;*/
+ background-color:white;
+  background-image:url("GramImages/DefaultDP.png") ;
+  background-size:cover;
+  
+  /* commented for demo
+  float: left;
+  margin-left: 125px;
+  margin-top: 20px;
+  */
+  
+  /*for demo*/
+  display:inline-block;
+  vertical-align:middle;
+  
+}
+.mainpage-dp {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  overflow: hidden;
+  
+ background-color:white;
+  background-image:url("GramImages/DefaultDP.png") ;
+  background-size:contain;
+  
+  
+  display:inline-block;
+  vertical-align:middle;
+  
+}

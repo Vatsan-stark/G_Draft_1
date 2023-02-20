@@ -1,0 +1,19 @@
+@charset "UTF-8";
+.circular_image {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  overflow: hidden;
+  /*background-color: rgb(128,128,128);*/
+ /* background-color: grey ;*/
+  background-image:url("GramImages/defaultdp.jpeg");
+  /* commented for demo
+  float: left;
+  margin-left: 125px;
+  margin-top: 20px;
+  */
+  
+  /*for demo*/
+  display:inline-block;
+  vertical-align:middle;
+}
